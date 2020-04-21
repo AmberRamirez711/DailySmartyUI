@@ -1,0 +1,1 @@
+export const SET_Recent_POSTS = 'SET_RECENT_POSTS';
